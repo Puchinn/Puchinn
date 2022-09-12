@@ -1,7 +1,4 @@
-## Hola👋 Soy Esteban, 
-#### Pero los que me conocen me dicen Puchin 😊
-
----
+## Hola👋 Soy Esteban
 ### 🌟Sobre Mi:
 #### Me llamo Esteban Sayago, tengo 19 años resido en Argentina y me encanta pasar horas en el PC siempre me gusto jugar y pasar el tiempo aquí, cuando descubrí el mundo de la programación en 2022 supe el lugar donde quería estar, trabajar, y de que quería vivir, es mi lugar perfecto. Actualmente estoy estudiando para convertirme en un programador FullStack 😃
 
