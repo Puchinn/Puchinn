@@ -1,6 +1,6 @@
 ## Hola👋 Soy Esteban
 ### 🌟Sobre Mi:
-#### Me llamo Esteban Sayago, tengo 20 años resido en Argentina y me encanta pasar horas en el PC siempre me gusto jugar y pasar el tiempo aquí, cuando descubrí el mundo de la programación en 2022 supe el lugar donde quería estar, trabajar, y de que quería vivir, es mi lugar perfecto. Actualmente estoy estudiando para convertirme en un programador FullStack 😃
+#### Me llamo Esteban Sayago, tengo 20 años, mi proposito es ser programador.
 
 ---
 <h4 align="left">Tecnologías que ya sé:</h4>
@@ -17,25 +17,3 @@ height="40" title="Talwind Css"/></a>
 </p>
 
 ---
-
-### Mi ruta de aprendizaje 📚:
-
-#### FrontEnd:
-
-* Html
-* Css
-* Frameworks de Css: Tailwind
-* JavaScript
-* TypeScript
-* React
-
-#### BackEnd:
-
-* Python
-* todavía no sé 😔
-
-#### Base de datos:
-* todavía no sé 😔
----
-#### Todavía sigo aprendiendo, pronto verás cambios :relaxed:
-
