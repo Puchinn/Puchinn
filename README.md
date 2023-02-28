@@ -15,8 +15,8 @@
 
 ## Social - Contacto:
 
-<a href="mailto:sayagoo823@gmail.com" target="_blank">Correo</a> -
-<a href="https://www.linkedin.com/in/esteban-sayago-a80796241" target="_blank">LinkedIn</a> -
-<a href="https://github.com/Puchinn" target="_blank">GitHub (here)</a>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Puchinn)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-sayago-a80796241)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayagoo823@gmail.com)
 
 ---
