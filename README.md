@@ -4,7 +4,6 @@
 
 #### Me llamo Esteban, tengo 20 años y resido en Córdoba, Argentina. Soy un estudiante de desarrollo web Frontend, utilizando react y tailwind css. Quiero ser un desarrollador web Fullstack, por lo que tengo intereses en aprender tecnologías de Backend y base de datos.
 
--   📚 Estudiante del programa Argentina Programa
 -   💻<a href="https://estebansayago.vercel.app" target="_blank" rel="noreferrer">Mi Portafolio</a>
 
 ## Skills 💪🏾:
