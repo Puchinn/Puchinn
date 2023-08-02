@@ -9,7 +9,7 @@
 
 ### Qué tal?, **soy desarrollador web fullstack** _(o casi)_
 
-<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" height="300" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" height="200" /></a>
 
 - 🌱 Estudiando backend con java en el programa [ONE](https://www.oracle.com/ar/education/oracle-next-education/) de Oracle.
 - 📚 También haciendo el curso de [fullstackopen](https://fullstackopen.com/es/part4) (voy por la parte 4).
