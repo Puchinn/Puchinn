@@ -7,17 +7,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:sayagoo823@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Puchinn)
 
-### Qué tal?, **soy desarrollador web fullstack** _(o casi)_
+### **Full Stack Developer** 
 
 <a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" height="200" /></a>
 
-- 🌱 Estudiando backend con java en el programa [ONE](https://www.oracle.com/ar/education/oracle-next-education/) de Oracle.
-- 📚 También haciendo el curso de [fullstackopen](https://fullstackopen.com/es/part4) (voy por la parte 4).
 - 💬 Participo en comunidades de programación en general, compartiendo mis avances y también experiencias.
-- 💅🏽 Diseño UX/UI... No, no sé que es eso.
 - 🎨 Frontend con React.
-- 📂 Backend y base de datos (en proceso) con Node.js, Express y MongoDB.
+- 📂 Backend y base de datos con Node.js, Express y MongoDB.
 - 🎮 Gamer? Sí, soy muy competitivo
+- 📚 Argentina Programa 4.0 + IT Master Coding Academy
 
 #### Experiencia en tecnologías:
 
