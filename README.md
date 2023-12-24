@@ -26,3 +26,5 @@
 ![VERCEL](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-222222?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-222222?style=for-the-badge&logo=mysql&logoColor=white)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=puchinn&theme=dark&hide_border=false)<br/>
