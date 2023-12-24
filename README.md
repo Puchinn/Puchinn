@@ -1,23 +1,18 @@
-<h1 align="center"> ✨ Buenas (✿◡‿◡) ✨ </h1>
+# **Hey 🖐️. I'm _Esteban Sayago Fernando_**
 
-## **_Esteban S. Fernando_**
+### Full Stack Developer
 
 [![Discord](https://img.shields.io/badge/Discord-222222?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/392773520838492160)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/esteban-sayago-a80796241)
 [![Gmail](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:sayagoo823@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Puchinn)
 
-### **Full Stack Developer** 
-
-<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" height="200" /></a>
-
-- 💬 Participo en comunidades de programación en general, compartiendo mis avances y también experiencias.
-- 🎨 Frontend con React.
-- 📂 Backend y base de datos con Node.js, Express y MongoDB.
-- 🎮 Gamer? Sí, soy muy competitivo
-- 📚 Argentina Programa 4.0 + IT Master Coding Academy
-
-#### Experiencia en tecnologías:
+- 💻 Currently searching my first IT job as a **developer**.
+- 🗺️ Residing in Cordoba, Argentina.
+- ✉️ Contact me at: estebansayagodev@gmail.com
+- 📚 Currently enrolled in **MERN** stack studies.
+- 🧐 Always in search of new knowledge and tools
+- 🗣️ Portuguese B1 - English A2 - Spanish native.
 
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -28,5 +23,8 @@
 ![EXPRESS.JS](https://img.shields.io/badge/Express%20js-222222?style=for-the-badge&logo=express&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VITE](https://img.shields.io/badge/Vite-222222?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Babel](https://img.shields.io/badge/Babel-222222?style=for-the-badge&logo=babel&logoColor=white)
 ![RENDER](https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-222222?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-222222?style=for-the-badge&logo=mysql&logoColor=white)
