@@ -4,8 +4,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-222222?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/392773520838492160)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/esteban-sayago-a80796241)
-[![Gmail](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:sayagoo823@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Puchinn)
 
 - 💻 Currently searching my first IT job as a **developer**.
 - 🗺️ Residing in Cordoba, Argentina.
