@@ -1,16 +1,11 @@
 # **Hey 🖐️. I'm _Esteban Sayago Fernando_**
 
-### Full Stack Developer
-
-[![Discord](https://img.shields.io/badge/Discord-222222?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/392773520838492160)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/esteban-sayago-a80796241)
 
-- 💻 Currently searching my first IT job as a **developer**.
-- 🗺️ Residing in Cordoba, Argentina.
-- ✉️ Contact me at: estebansayagodev@gmail.com
-- 📚 Currently enrolled in **MERN** stack studies.
-- 🧐 Always in search of new knowledge and tools
-- 🗣️ Portuguese B1 - English A2 - Spanish native.
+- 📚 Full-stack web developer.
+- 💼 [Porfolio](https://estebansayago-porfolio.vercel.app/).
+- 🧐 Always in search of new knowledge and tools.
+- ✉️ Contact me at: estebansayagodev@gmail.com.
 
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6)
