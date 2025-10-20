@@ -2,11 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/esteban-sayago-a80796241)
 
-- 📚 Full-stack web developer.
-- 💼 [Porfolio](https://estebansayago-porfolio.vercel.app/).
-- 🧐 Always in search of new knowledge and tools.
-- ✉️ Contact me at: estebansayagodev@gmail.com.
-
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript)
